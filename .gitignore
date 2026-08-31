@@ -5,7 +5,10 @@ __pycache__/
 
 .env
 .env.*
+
+#Virtual Environment
 dblog/
+.dblog/
 
 db.sqlite3
 
